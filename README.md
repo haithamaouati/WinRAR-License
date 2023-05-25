@@ -5,7 +5,6 @@ WinRAR — Unlimited Company License
 - [Method](#method)
   - [Registration](#registration)
 - [Disclaimer](#disclaimer)
-- [License](#license)
 
 ## Method
 
@@ -36,7 +35,3 @@ aef69d48c864bcd72d15163897773d314187f6a9af350808719796
 
 > **Warning**:
 > You should pay for your software.
-
-## License
-
-This repository is under [Unlicense License](https://github.com/haithamaouati/WinRAR-License/blob/main/LICENSE).
