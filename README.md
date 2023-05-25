@@ -15,7 +15,7 @@ WinRAR — Unlimited Company License
 4. Paste the `rarreg.key` into WinRAR directory
 
 > **Note**:
-> Enjoy :smile:
+> Enjoy! :smile:
 
 ## Registration
 
