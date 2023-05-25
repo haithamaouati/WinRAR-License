@@ -3,7 +3,7 @@ WinRAR — Unlimited Company License
 
 ## Table of Contents
 - [Method](#method)
-- [Registration](#registration)
+  - [Registration](#registration)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
@@ -16,7 +16,7 @@ WinRAR — Unlimited Company License
 > **Note**:
 > Enjoy! :smile:
 
-## Registration
+### Registration
 
 ```
 RAR registration data
