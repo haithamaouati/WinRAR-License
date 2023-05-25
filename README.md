@@ -10,7 +10,7 @@ WinRAR — Unlimited Company License
 ## Method
 
 1. Create a file named `rarreg.key`
-2. Paste into the file the registration data
+2. Paste into the file the [Registration](#registration) data
 3. Go to WinRAR install directory `C:\ProgramFiles\WinRAR\`
 4. Paste the `rarreg.key` into WinRAR directory
 
