@@ -3,7 +3,7 @@ WinRAR — Unlimited Company License
 
 ## Table of Contents
 - [Method](#method)
- - [Registration](#registration)
+  - [Registration](#registration)
 - [Disclaimer](#disclaimer)
 - [License](#license)
 
