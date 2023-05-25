@@ -9,17 +9,17 @@ WinRAR — Unlimited Company License
 
 ## Usage
 
-1. Create a file named rarreg.key
-2. Paste into the file the License code
-3. Go to WinRAR install directory 'C:\ProgramFiles\WinRAR\'
-4. Paste the rarreg.key into WinRAR directory
+1. Create a file named `rarreg.key`
+2. Paste into the file the registration code
+3. Go to WinRAR install directory `C:\ProgramFiles\WinRAR\`
+4. Paste the `rarreg.key` into WinRAR directory
 
 > **Note**:
 > Enjoy.
 
 ## Registration
 
-'''
+```
 RAR registration data
 WinRAR
 Unlimited Company License
@@ -31,7 +31,7 @@ b41bcf56929486b8bcdac33d50ecf773996052598f1f556defffbd
 982fbe71e93df6b6346c37a3890f3c7edc65d7f5455470d13d1190
 6e6fb824bcf25f155547b5fc41901ad58c0992f570be1cf5608ba9
 aef69d48c864bcd72d15163897773d314187f6a9af350808719796
-'''
+```
 
 ## Disclaimer
 
